@@ -1,4 +1,4 @@
-## Hi I'm Shilo
+## Hi, I'm Shilo!
 
 ## Hi there 👋
 
