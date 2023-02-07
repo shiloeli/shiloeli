@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Shilo</h2>
 <h3 align="center">Software Developer | Computer Science Graduate</h3>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shilo-elimelech/) 
 
 <h3 align="left">💻 Languages and Tools:</h3>
