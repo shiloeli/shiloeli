@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Shilo</h2>
 <h3 align="center">Software Developer | Computer Science Graduate</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73112107/217347708-2f664df9-7dcf-45ef-b5ac-08fa0203db24.png" alt="bootstrap" width="500" height="300"/>
+![img src="https://user-images.githubusercontent.com/73112107/217347708-2f664df9-7dcf-45ef-b5ac-08fa0203db24.png" alt="bootstrap" width="500" height="300"]
 </p>
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shilo-elimelech/) 
