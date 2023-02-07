@@ -1,4 +1,5 @@
 ## Hi, I'm Shilo!
+### Software Developer | Computer Science Graduate
 
 ## Hi there 👋
 
